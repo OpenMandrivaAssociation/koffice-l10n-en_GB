@@ -1,5 +1,5 @@
 Name: koffice-l10n-en_GB
-Version: 2.2.1
+Version: 2.2.2
 Release: %mkrel 1
 Summary: Language files for KOffice British English
 Group: System/Internationalization
